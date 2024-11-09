@@ -15,9 +15,5 @@ Future Improvements
 
     Smoothen player movements with acceleration/deceleration mechanics.
     Add sound effects and background music.
-    Introduce additional levels with increasing difficulty.
+    Increasing difficulty.
     Implement a high score tracking system.
-
-Contributions
-
-Feel free to fork this repository, make improvements, and submit a pull request. Contributions are welcome!
